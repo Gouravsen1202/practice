@@ -3,9 +3,9 @@ using namespace std;
 int main(){
  int cost,selling,total,gst;
  
-cout<<"enter your cost price";
+cout<<"enter your  a cost price";
 cin>>cost;
-cout<<"enter your selling price";
+cout<<"enter your  a selling price";
 cin>>selling;
 if(cost==selling){
     total=cost-selling;
